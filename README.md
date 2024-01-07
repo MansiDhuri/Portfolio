@@ -6,6 +6,6 @@ HTML,CSS,Javascript
 The css folder contains the CSS file and js folder contains JavaScript file, all images and icons used, in their respective folders.
 # Tools Used
 Below are the list of tools used :
--- fontawesome for the icons
--- Webfonts used for fonts
--- Web3forms for the contact form submission
+1) fontawesome for the icons
+2) Webfonts used for fonts
+3) Web3forms for the contact form submission
